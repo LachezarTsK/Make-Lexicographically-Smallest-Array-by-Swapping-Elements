@@ -25,8 +25,8 @@ And to drive it home: please take a look at problem **386. Lexicographical Numbe
 
 Here the input is given as 32-bit integer values (or the upper boundary, to be exact) but when you solve the problem, you have to treat these 32-bit integers as string integers. And when you return the answer, you again have to return 32-bit integers, which while solving the problem you **processed, if not literally, at least conceptually**, as string integers.
 
-An example from this problem:
-Input: n = 13 
+An example from this problem:<br/>
+Input: n = 13<br/> 
 Expected Output: [1,10,11,12,13,2,3,4,5,6,7,8,9]
 
 **Here clearly (and correctly!!) 10 < 2.**
